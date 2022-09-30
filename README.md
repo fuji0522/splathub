@@ -1,0 +1,2 @@
+# splathub
+Splatoon3のスケジュールを取得するシンプルなModule
